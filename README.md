@@ -1,1 +1,1 @@
-TinDog Starting Files
+Polaris experiment
